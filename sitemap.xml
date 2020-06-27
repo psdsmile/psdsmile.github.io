@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.com/blog/post-6/</loc>
+    <lastmod>2020-06-24T12:13:36+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/blog/post-5/</loc>
+    <lastmod>2018-03-18T12:13:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/blog/post-4/</loc>
+    <lastmod>2018-03-18T12:13:35+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/blog/post-3/</loc>
+    <lastmod>2018-03-18T12:13:32+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/blog/post-2/</loc>
+    <lastmod>2018-03-18T12:13:30+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/blog/post-1/</loc>
+    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/blog/</loc>
+    <lastmod>2020-06-24T12:13:36+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/moods/</loc>
+    <lastmod>2020-06-24T12:13:36+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/photos/</loc>
+    <lastmod>2020-06-24T12:13:36+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/</loc>
+    <lastmod>2020-06-24T12:13:36+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/primer/</loc>
+    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/procrastinating/</loc>
+    <lastmod>2018-03-18T12:13:32+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/space/</loc>
+    <lastmod>2018-03-18T12:13:30+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/</loc>
+    <lastmod>2020-06-24T12:13:36+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/todo/</loc>
+    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2020-06-24T12:13:36+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

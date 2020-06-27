@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photos on Portifolio</title>
+    <link>http://example.com/tags/photos/</link>
+    <description>Recent content in Photos on Portifolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy 2020 Practice Hugo</copyright>
+    <lastBuildDate>Wed, 24 Jun 2020 12:13:36 +0530</lastBuildDate>
+    
+	<atom:link href="http://example.com/tags/photos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Festival Days</title>
+      <link>http://example.com/blog/post-6/</link>
+      <pubDate>Wed, 24 Jun 2020 12:13:36 +0530</pubDate>
+      
+      <guid>http://example.com/blog/post-6/</guid>
+      <description>View this post on Instagram        Jun.25 老實說 我沒想到她戴起來這麼美 讓我蠻意外的款式😏
+A post shared by Kava Accessories ｜復古、氣質和個性飾品 (@kavaacc) on Jun 25, 2020 at 7:13am PDT
+    Images   Dave Herring     Dave Herring   Github Gist  Youtube video   Tweet Hugo 0.24 Released: Big archetype update + @Netlify _redirects etc. file supporthttps://t.</description>
+    </item>
+    
+  </channel>
+</rss>
