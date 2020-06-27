@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Portifolio</title>
-    <link>http://example.com/categories/</link>
+    <link>https://psdsmile.github.io/categories/</link>
     <description>Recent content in Categories on Portifolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy 2020 Practice Hugo</copyright>
     
-	<atom:link href="http://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://psdsmile.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>心得</title>
-      <link>http://example.com/categories/%E5%BF%83%E5%BE%97/</link>
+      <link>https://psdsmile.github.io/categories/%E5%BF%83%E5%BE%97/</link>
       <pubDate>Wed, 24 Jun 2020 12:13:36 +0530</pubDate>
       
-      <guid>http://example.com/categories/%E5%BF%83%E5%BE%97/</guid>
+      <guid>https://psdsmile.github.io/categories/%E5%BF%83%E5%BE%97/</guid>
       <description></description>
     </item>
     

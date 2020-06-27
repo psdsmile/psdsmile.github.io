@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Portifolio</title>
-    <link>http://example.com/tags/</link>
+    <link>https://psdsmile.github.io/tags/</link>
     <description>Recent content in Tags on Portifolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy 2020 Practice Hugo</copyright>
     <lastBuildDate>Wed, 24 Jun 2020 12:13:36 +0530</lastBuildDate>
     
-	<atom:link href="http://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://psdsmile.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Moods</title>
-      <link>http://example.com/tags/moods/</link>
+      <link>https://psdsmile.github.io/tags/moods/</link>
       <pubDate>Wed, 24 Jun 2020 12:13:36 +0530</pubDate>
       
-      <guid>http://example.com/tags/moods/</guid>
+      <guid>https://psdsmile.github.io/tags/moods/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Photos</title>
-      <link>http://example.com/tags/photos/</link>
+      <link>https://psdsmile.github.io/tags/photos/</link>
       <pubDate>Wed, 24 Jun 2020 12:13:36 +0530</pubDate>
       
-      <guid>http://example.com/tags/photos/</guid>
+      <guid>https://psdsmile.github.io/tags/photos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Primer</title>
-      <link>http://example.com/tags/primer/</link>
+      <link>https://psdsmile.github.io/tags/primer/</link>
       <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
       
-      <guid>http://example.com/tags/primer/</guid>
+      <guid>https://psdsmile.github.io/tags/primer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Procrastinating</title>
-      <link>http://example.com/tags/procrastinating/</link>
+      <link>https://psdsmile.github.io/tags/procrastinating/</link>
       <pubDate>Sun, 18 Mar 2018 12:13:32 +0530</pubDate>
       
-      <guid>http://example.com/tags/procrastinating/</guid>
+      <guid>https://psdsmile.github.io/tags/procrastinating/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Space</title>
-      <link>http://example.com/tags/space/</link>
+      <link>https://psdsmile.github.io/tags/space/</link>
       <pubDate>Sun, 18 Mar 2018 12:13:30 +0530</pubDate>
       
-      <guid>http://example.com/tags/space/</guid>
+      <guid>https://psdsmile.github.io/tags/space/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Todo</title>
-      <link>http://example.com/tags/todo/</link>
+      <link>https://psdsmile.github.io/tags/todo/</link>
       <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
       
-      <guid>http://example.com/tags/todo/</guid>
+      <guid>https://psdsmile.github.io/tags/todo/</guid>
       <description></description>
     </item>
     
